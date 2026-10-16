@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0001-two-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Stack
 |  |
 | ------- |
@@ -117,8 +119,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
