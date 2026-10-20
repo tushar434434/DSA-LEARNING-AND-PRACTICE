@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0069-sqrtx) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3886-sum-of-sortable-integers) |
 ## Newton's Method
 |  |
 | ------- |
