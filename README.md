@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0678-valid-parenthesis-string) |
+| [3665-twisted-mirror-path-count](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
