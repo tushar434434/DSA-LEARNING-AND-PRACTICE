@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0860-lemonade-change](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0860-lemonade-change) |
 | [1254-number-of-closed-islands](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -114,12 +115,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0162-find-peak-element) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3886-sum-of-sortable-integers) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Quicksort
 |  |
 | ------- |
