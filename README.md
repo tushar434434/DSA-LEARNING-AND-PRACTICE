@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0860-lemonade-change](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0860-lemonade-change) |
 | [1254-number-of-closed-islands](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2747-count-zero-request-servers) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
@@ -178,17 +180,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -222,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
