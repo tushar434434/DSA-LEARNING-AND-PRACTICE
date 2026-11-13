@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Counting
 |  |
@@ -246,4 +250,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
