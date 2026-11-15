@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3693-climbing-stairs-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2747-count-zero-request-servers) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -267,5 +270,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
