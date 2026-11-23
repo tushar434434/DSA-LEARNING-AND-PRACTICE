@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0860-lemonade-change) |
 | [1254-number-of-closed-islands](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -288,6 +290,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/tushar434434/DSA-LEARNING-AND-PRACTICE/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
